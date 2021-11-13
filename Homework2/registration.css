@@ -1,0 +1,38 @@
+body{
+    background-color: #defdf1;
+}
+
+#register-container {
+    width: 290px;
+    height: 268px;
+    background-color:#defdf1;
+    padding: 25px;
+    margin: 150px auto;
+    border:solid 1px #478129;
+}
+
+
+#sbt{
+    background-color: #cfe7d9;
+    color: #88955b;
+    border:solid 1px #bbc9ba
+   
+}   
+
+#sbt:hover{
+    background-color: #558d3d;
+    color: #cee6d8;
+}
+
+.user-input{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+    padding: 5px;
+    border:solid 1px #bbc9ba
+
+}
+
+.user-input:hover{
+    border:solid 1.5px #558d3d;
+}
